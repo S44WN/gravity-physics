@@ -1,0 +1,40 @@
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.mobile-menu .menu-content h4 {
+  margin: 1rem 0;
+}
+
+.mobile-menu .menu-content a {
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .desktop-nav {
+    display: none;
+  }
+
+  .menu-button {
+    display: block;
+    color: #333;
+    font-size: 1.5rem;
+  }
+
+  .mobile-menu {
+    visibility: visible;
+  }
+}
