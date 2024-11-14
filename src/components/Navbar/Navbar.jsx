@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import { gsap } from "gsap";
-import "./NavBar.css";
+import "./Navbar.css";
 
 const NavBar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
