@@ -8,15 +8,24 @@ const Footer = () => {
       <div className="footer-details">
         <div className="footer-links">
           <i className="bx bxs-phone"></i>
-          <a href="#">+91 4568956564</a>
+          <a
+            href="https://api.whatsapp.com/send?phone=+919334369164&text=Hey there!"
+            target="_blank"
+          >
+            +91 9334369164
+          </a>
         </div>
         <div className="footer-links">
           <i className="bx bxs-envelope"></i>
-          <a href="#">gravityphysics@gmial.com</a>
+          <a href="mailto:gravityphysics@gmail.com" target="_blank">
+            gravityphysics@gmail.com
+          </a>
         </div>
         <div className="footer-links">
           <i className="bx bxs-map"></i>
-          <a href="#"> Bhagwatnagar, Patna, 800026</a>
+          <a href="https://maps.app.goo.gl/wV6YLdJoEwqAqg4C7" target="_blank">
+            Bhagwatnagar, Patna, 800026
+          </a>
         </div>
       </div>
       <div id="footer-bottom"></div>

@@ -23,7 +23,7 @@ const CourseSection = () => {
   ];
 
   return (
-    <div className="courses">
+    <div className="courses" id="courses">
       <section className="course-section container">
         <div className="course-section-head">
           <h2 className="course-section-title">our courses</h2>

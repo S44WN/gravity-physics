@@ -1,7 +1,6 @@
 .courses {
   background-color: var(--text-color);
-  padding-bottom: 15rem;
-  border-radius: 0 0 2rem 2rem;
+  padding-bottom: 5rem;
 }
 
 .course-section {

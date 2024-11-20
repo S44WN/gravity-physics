@@ -14,6 +14,7 @@ import TestimonialsSection from "./components/TestimonialSection/TestimonialsSec
 // import HeroScene from "./components/HeroScene/HeroScene";
 import CourseSection from "./components/CourseSection/CourseSection";
 import Footer from "./components/Footer/Footer";
+import ContactSection from "./components/ContactSection/ContactSection";
 
 const App = () => {
   useEffect(() => {
@@ -56,6 +57,7 @@ const App = () => {
       <TestimonialsSection />
       <CourseSection />
       {/* <HeroScene /> */}
+      <ContactSection />
 
       {/* </main> */}
       {/* <MobileMenu /> */}
