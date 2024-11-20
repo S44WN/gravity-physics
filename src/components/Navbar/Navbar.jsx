@@ -41,7 +41,7 @@ const NavBar = () => {
           <a href="#courses">Courses</a>
         </h4>
         <h4>
-          <a href="#">Contact</a>
+          <a href="#contacts">Contact</a>
         </h4>
       </div>
 
