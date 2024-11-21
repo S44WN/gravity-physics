@@ -45,7 +45,7 @@ const ContactSection = () => {
                 <div>
                   <i className="bx bxl-youtube contact__card-icon"></i>
 
-                  <span className="contact__card-data">usertw</span>
+                  <span className="contact__card-data">YouTube</span>
                   <a
                     href="https://www.youtube.com/@gravity.physics"
                     target="_blank"

@@ -1,8 +1,19 @@
-# React + Vite
+# Gravity Physics
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gravity Physics is a web application designed to provide high-quality coaching for NEET and IIT-JEE aspirants. The application offers a structured curriculum, regular practice sessions, and personalized guidance to help students achieve their academic goals.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Features
+
+- **Hero Section**: Engaging introduction to the coaching services.
+- **About Section**: Information about the coaching institute and its teaching methodology.
+- **Course Section**: Detailed descriptions of the available courses.
+- **Testimonial Section**: Testimonials from successful students.
+- **Contact Section**: Contact information and a form to reach out to the institute.
+- **Footer**: Additional contact details and links.
